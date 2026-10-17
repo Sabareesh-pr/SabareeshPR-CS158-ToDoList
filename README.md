@@ -1,6 +1,6 @@
 # To Do List — Daily Grove
 
-A separate version of the original MERN to-do app with a forest-green sidebar, cream workspace, responsive layout, and completion progress summary.
+
 
 Features: add, edit, complete, delete, and filter tasks. All tasks are saved through Express to MongoDB.
 
